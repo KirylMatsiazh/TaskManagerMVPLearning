@@ -1,4 +1,0 @@
-﻿1. remove Model class
-2. create services and delegate actions to them through presenter
-3. manage events in presenter at one place
-4. Id generation
